@@ -22,4 +22,6 @@ This project is a tutorial on how to code a weather app using JavaScript. The we
 - HTML and CSS: Used for creating the user interface and styling the app.
 - Weather API: Integrated to retrieve weather data for various locations.
 
-### Done following this tutorial [https://www.youtube.com/watch?v=iILFBGm_I9M&t=443s](https://www.youtube.com/watch?v=iILFBGm_I9M&t=443s)
+## Done with the following tutorial 
+
+- [https://www.youtube.com/watch?v=iILFBGm_I9M&t=443s](https://www.youtube.com/watch?v=iILFBGm_I9M&t=443s)
